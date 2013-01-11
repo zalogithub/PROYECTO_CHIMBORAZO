@@ -1,4 +1,4 @@
-<?php
+<?php // tag completo
 
 /* incluimos primeramente el archivo que contiene la clase fpdf */
 
