@@ -1,4 +1,4 @@
-<?php
+<?php // ponemos el tag completo de pronto el short tag de php.ini este deshabilitado
 
 
 
